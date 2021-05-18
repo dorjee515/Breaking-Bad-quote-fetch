@@ -16,9 +16,10 @@ text-align-last: center;
 body{ 
     background-image: url("7.jpg");
     background-size: cover;
-    background-attachment: fixed;
     background-repeat: no-repeat;
+    background-attachment: fixed;
     color: seashell;
+    background-position: center center;
     
     
 }
