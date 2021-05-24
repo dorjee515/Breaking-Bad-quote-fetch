@@ -6,6 +6,11 @@
 ## heroku link 
 [app link](https://breaking-bad-words.herokuapp.com/)
 
+## logo
+
+![](https://github.com/dorjee515/Breaking-Bad-quote-fetch/blob/master/Screenshot%20(545).png)
+
+
 ## webpage
 
 ![](https://github.com/dorjee515/Breaking-Bad-quote-fetch/blob/master/Screenshot%20(543).png)
